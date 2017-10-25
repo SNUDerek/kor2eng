@@ -1,0 +1,2000 @@
+IN : ㄷㅗㄹㄹㅣㅅㅕㅆㄴㅡㄴ
+TRU: dollisyeossneun
+PRD: eongeuyyossnen
+
+IN : ㅂㅣㄱㅛ
+TRU: bigyo
+PRD: bigyo
+
+IN : ㅅㅏㄹㅏㅇㅅㅡㄹㅓㅂ
+TRU: salangseuleob
+PRD: jabeugtuleeu
+
+IN : ㅍㅛㅇㅓ
+TRU: pyoeo
+PRD: yeoog
+
+IN : ㅁㅣㄹㅜㅈㅣ
+TRU: miluji
+PRD: malgki
+
+IN : ㅌㅔㄱㅅㅏㅅㅡ
+TRU: tegsaseu
+PRD: dolooseu
+
+IN : ㄷㅗㅅㅣ
+TRU: dosi
+PRD: nesi
+
+IN : ㅊㅕㄷㅏㅂㅗㅈㅏ
+TRU: chyeodaboja
+PRD: cheonyeogaa
+
+IN : ㅊㅏㅈㅇㅏㅂㅗㅁㅕㄴ
+TRU: chajabomyeon
+PRD: hhunbibumyeon
+
+IN : ㅈㅡㅇㅊㅜㄱ
+TRU: jeungchug
+PRD: heonhhab
+
+IN : ㅈㅣㄹㄹㅓㅆㅅㅡㅂㄴㅣ
+TRU: jilleossseubni
+PRD: jijjeubyeobhi
+
+IN : ㄱㅗㅌㅗㅇ
+TRU: gotong
+PRD: gunong
+
+IN : ㅍㅏㅇㅏㄱㅎㅏㄷㅗ
+TRU: paaghado
+PRD: yoighago
+
+IN : ㅈㅗㅁㅏㅈㅗㅁㅏ
+TRU: jomajoma
+PRD: majalaja
+
+IN : ㄷㅗㅇㅇㅢㅎㅏㅁ
+TRU: donguiham
+PRD: wangohaa
+
+IN : ㅅㅓㄴㅁㅜㄹ
+TRU: seonmul
+PRD: geosgul
+
+IN : ㅂㅕㅇㅈㅜㅇ
+TRU: byeongjung
+PRD: hyeongeong
+
+IN : ㄲㅐㄲㅡㅅㅎㅏㄱㅗ
+TRU: kkaekkeushago
+PRD: ckeumeonhago
+
+IN : ㅈㅓㅎㅏㅇㅎㅏㅁㅕ
+TRU: jeohanghamyeo
+PRD: soechoohayyeo
+
+IN : ㅈㅣㄴㅕ
+TRU: jinyeo
+PRD: jigyeo
+
+IN : ㅈㅚㅇㅣㅁ
+TRU: joeim
+PRD: taiil
+
+IN : ㅂㅐㄴㅋㅜㅂㅓ
+TRU: baenkubeo
+PRD: haanauseo
+
+IN : ㅇㅓㄴㅉㅏㄶㅇㅡㄴ
+TRU: eonjjanheun
+PRD: tengeonneun
+
+IN : ㅇㅠㅇㅅㅓㅇ
+TRU: yungseong
+PRD: gengjeong
+
+IN : ㄷㅐㅁㅣ
+TRU: daemi
+PRD: baegi
+
+IN : ㄹㅣㅇㅏㅁ
+TRU: liam
+PRD: pinb
+
+IN : ㅁㅔㄴㅌㅗ
+TRU: mento
+PRD: gonlo
+
+IN : ㅇㅑㅁㅏ
+TRU: yama
+PRD: aega
+
+IN : ㅅㅡㅊㅕㅆ
+TRU: seuchyeoss
+PRD: jeocyeos
+
+IN : ㅇㅑㅇㄱㅗㄴ
+TRU: yanggon
+PRD: danggon
+
+IN : ㅎㅡㄹㄹㅓㄴㅐㄹㅣ
+TRU: heulleonaeli
+PRD: kkeleonheoji
+
+IN : ㅇㅣㅎㅗㄴㅎㅏㅁㅕㄴ
+TRU: ihonhamyeon
+PRD: ilhaghayeon
+
+IN : ㄴㅜㄴㄱㅣㄹ
+TRU: nungil
+PRD: bonjil
+
+IN : ㄲㅓㄲㅈㅣ
+TRU: kkeokkji
+PRD: gkeolji
+
+IN : ㅊㅏㄹㅕㅅ
+TRU: chalyeos
+PRD: hhayyeon
+
+IN : ㅈㅜㅌㅐㄱ
+TRU: jutaeg
+PRD: lasaeg
+
+IN : ㅇㅜㄹㅣㄹ
+TRU: ulil
+PRD: ulli
+
+IN : ㄷㅏㅂㄹㅖ
+TRU: dablye
+PRD: sallye
+
+IN : ㅍㅔㄱㅣ
+TRU: pegi
+PRD: musi
+
+IN : ㅎㅏㅂㄱㅖ
+TRU: habgye
+PRD: baggye
+
+IN : ㅂㅡㄹㅏㅇㅜㄴ
+TRU: beulaun
+PRD: geuliun
+
+IN : ㄱㅟㅊㅏㄱ
+TRU: gwichag
+PRD: taechag
+
+IN : ㅅㅗㅅㅏ
+TRU: sosa
+PRD: dosa
+
+IN : ㅈㅏㅇㄹㅖ
+TRU: janglye
+PRD: saengyeo
+
+IN : ㄱㅏㅈㅕㄱㅏㅂ
+TRU: gajyeogab
+PRD: goleeohab
+
+IN : ㅅㅣㄹㄷㅡ
+TRU: sildeu
+PRD: jinteu
+
+IN : ㄱㅣㄷㅏㄹㅣㄴㅣ
+TRU: gidalini
+PRD: jilaaii
+
+IN : ㅂㅏㄹㄷㅗㅍㅏ
+TRU: baldopa
+PRD: gagguka
+
+IN : ㅇㅛㅎㅔㄴ
+TRU: yohen
+PRD: dogeo
+
+IN : ㅁㅗㅇㅢㅅㅣㄹㅎㅓㅁ
+TRU: mouisilheom
+PRD: mamijgaaeen
+
+IN : ㅈㅓㄹㄱㅕㅇ
+TRU: jeolgyeong
+PRD: seolmyeong
+
+IN : ㅂㅗㅌㅐ
+TRU: botae
+PRD: togae
+
+IN : ㄲㅜㅈㅜㄴㅎㅣ
+TRU: kkujunhi
+PRD: kkeunnhi
+
+IN : ㅅㅏㅁㅊㅓㄴ
+TRU: samcheon
+PRD: ganhheon
+
+IN : ㄷㅚㄷㅗㄹㅇㅏㅇㅘㅆ
+TRU: doedolawass
+PRD: jangjooooes
+
+IN : ㄷㅏㅁㅅㅜㅎㅗ
+TRU: damsuho
+PRD: jamsngo
+
+IN : ㄴㅡㅈㅊㅜㄱㅓ
+TRU: neujchugeo
+PRD: geochhageo
+
+IN : ㄱㅘㅇㄱㅏㄱ
+TRU: gwanggag
+PRD: haenghag
+
+IN : ㄱㅗㅁㅣㄴㅎㅐㅇㅑ
+TRU: gominhaeya
+PRD: dananhayeo
+
+IN : ㅂㅏㄺㅎㅕ
+TRU: balghyeo
+PRD: maeaayeo
+
+IN : ㅇㅘㄹㅗ
+TRU: walo
+PRD: aajo
+
+IN : ㄴㅗㄹㅐㅎㅏㅇㅕㅆ
+TRU: nolaehayeoss
+PRD: nonahaayeoss
+
+IN : ㅌㅡㄹㅣㄱ
+TRU: teulig
+PRD: teulim
+
+IN : ㅌㅗㅇㄱㅘㅎㅏㄱㅗ
+TRU: tonggwahago
+PRD: dayanghago
+
+IN : ㅋㅕㄹㄹㅔ
+TRU: kyeolle
+PRD: keetlle
+
+IN : ㅂㅏㅇㅊㅓㅇㄱㅐㄱ
+TRU: bangcheonggaeg
+PRD: jonseonghaess
+
+IN : ㅇㅗㅎㅏㅇㅇㅞ
+TRU: ohangwe
+PRD: ananeen
+
+IN : ㄱㅏㄲㅜㅇㅓ
+TRU: gakkueo
+PRD: haeeeoo
+
+IN : ㅂㅜㄷㅏㅁ
+TRU: budam
+PRD: bubag
+
+IN : ㅈㅗㅈㅓㅇㅎㅏㅈㅣ
+TRU: jojeonghaji
+PRD: balsanghagi
+
+IN : ㅅㅏㅁㅏㄱ
+TRU: samag
+PRD: banag
+
+IN : ㅁㅜㅎㅏㄴㄷㅐ
+TRU: muhandae
+PRD: jogauhae
+
+IN : ㅇㅏㅁㅜㅌㅡㄴ
+TRU: amuteun
+PRD: oeppeun
+
+IN : ㅇㅡㅁㅈㅣ
+TRU: eumji
+PRD: nolki
+
+IN : ㅁㅜㅅㅣㅎㅐㅅㅓ
+TRU: musihaeseo
+PRD: godaeaeseo
+
+IN : ㅅㅐㅇㄱㅏㄱ
+TRU: saenggag
+PRD: haengbab
+
+IN : ㅌㅗㅂㅣ
+TRU: tobi
+PRD: mugi
+
+IN : ㄱㅡㄹㄹㅗㄹㅣㅇㅏ
+TRU: geullolia
+PRD: seutellia
+
+IN : ㅍㅣㄹㅇㅛㅎㅏㄱㅣㄴ
+TRU: pilyohagin
+PRD: iljonhhasi
+
+IN : ㅅㅐㅇㅍㅏㄴ
+TRU: saengpan
+PRD: haeegsan
+
+IN : ㅊㅣㄴㄱㅡㄴㅎㅏㄴ
+TRU: chingeunhan
+PRD: chengmmmhan
+
+IN : ㅅㅗㄴㅗ
+TRU: sono
+PRD: bono
+
+IN : ㄷㅗㄴㄷㅔㄹㅡ
+TRU: dondeleu
+PRD: gogeuleu
+
+IN : ㅇㅝㅅㅡㄹㄹㅣ
+TRU: woseulli
+PRD: dengeuli
+
+IN : ㅇㅡㄴㄷㅔㄴㅋㅔ
+TRU: eundenke
+PRD: eunkonde
+
+IN : ㅁㅔㄹㄹㅣㅅㅏ
+TRU: mellisa
+PRD: supilga
+
+IN : ㅇㅜㅈㅓㅇㅇㅡㄴ
+TRU: ujeongeun
+PRD: angeoneun
+
+IN : ㅂㅐㅎㅜ
+TRU: baehu
+PRD: daehu
+
+IN : ㅎㅘㄹㅇㅛㅇㅎㅏㄱㅣ
+TRU: hwalyonghagi
+PRD: hwalyenghaji
+
+IN : ㅂㅡㄹㅣㄴㄷㅣㅅㅣ
+TRU: beulindisi
+PRD: kkejauhaji
+
+IN : ㅂㅜㄹㅡㅎㅡ
+TRU: buleuheu
+PRD: llleedeuu
+
+IN : ㅂㅏㄹㄱㅏ
+TRU: balga
+PRD: talta
+
+IN : ㅂㅓㅂㅈㅣㄹㅅㅓ
+TRU: beobjilseo
+PRD: keulaaayeo
+
+IN : ㄴㅗㄹㄹㅏㄱㅗ
+TRU: nollago
+PRD: eupindo
+
+IN : ㅅㅡㅇㄹㅣㅎㅏㅅㅣㄴ
+TRU: seunglihasin
+PRD: seongumaasin
+
+IN : ㅅㅜㅇㅢ
+TRU: suui
+PRD: duui
+
+IN : ㄷㅏㅎㄷㅓ
+TRU: dahdeo
+PRD: dagseo
+
+IN : ㅊㅣㄹㅊㅣㄹ
+TRU: chilchil
+PRD: chanchil
+
+IN : ㄴㅡㄲㅣ
+TRU: neukki
+PRD: teolii
+
+IN : ㄱㅡㄹㅣㅍㅣㄴ
+TRU: geulipin
+PRD: seulliin
+
+IN : ㅍㅛㅎㅕㄴㅎㅏㄱㅣ
+TRU: pyohyeonhagi
+PRD: benyeonhagi
+
+IN : ㅈㅔㅇㅖ
+TRU: jeye
+PRD: joye
+
+IN : ㅁㅔㅅㅣㅈㅣ
+TRU: mesiji
+PRD: malugi
+
+IN : ㄷㅜㄱㅔ
+TRU: duge
+PRD: moje
+
+IN : ㅊㅏㅁㅇㅕㅎㅏㄷㅡㄴ
+TRU: chamyeohadeun
+PRD: chungaenjeneun
+
+IN : ㅂㅜㄹㅏㄱ
+TRU: bulag
+PRD: kulag
+
+IN : ㅇㅔㅇㅓㄹㅗㅂㅣㄱ
+TRU: eeolobig
+PRD: aseujubi
+
+IN : ㅇㅣㅅㅐㄱ
+TRU: isaeg
+PRD: ahaeg
+
+IN : ㅌㅡㄹㅏㅋㅏㄴ
+TRU: teulakan
+PRD: teulllag
+
+IN : ㄱㅣㄹㄱㅓㄹㅣ
+TRU: gilgeoli
+PRD: bibdeuki
+
+IN : ㅎㅢㅅㅐㅇㅎㅏㄷㅏ
+TRU: huisaenghada
+PRD: haensaaggha
+
+IN : ㅅㅏㅈㅓㅇ
+TRU: sajeong
+PRD: bagyong
+
+IN : ㅈㅣㅎㅖ
+TRU: jihye
+PRD: tagye
+
+IN : ㅅㅏㅇㅛㅇㅎㅏㄱㅣ
+TRU: sayonghagi
+PRD: gamsanghaji
+
+IN : ㅈㅣㄱㅡㅂㅎㅏㅂ
+TRU: jigeubhab
+PRD: sigeumhag
+
+IN : ㅋㅡㄹㄹㅗㅂㅣㅅㅡ
+TRU: keullobiseu
+PRD: teuleuladeu
+
+IN : ㅎㅜㅎㅚㅎㅏㅂ
+TRU: huhoehab
+PRD: danghhhab
+
+IN : ㄹㅜㅊㅣ
+TRU: luchi
+PRD: kocki
+
+IN : ㅋㅐㄹㅓㄴ
+TRU: kaeleon
+PRD: beleeon
+
+IN : ㄷㅓㅇㅜㄱ
+TRU: deoug
+PRD: seoo
+
+IN : ㄷㅡㄹㅓㄴㅐㄱㅔ
+TRU: deuleonaege
+PRD: deuleonage
+
+IN : ㅈㅣㅂㅜㄹㅎㅏㅂ
+TRU: jibulhab
+PRD: sululhab
+
+IN : ㅇㅕㄴㅅㅡㅂㅎㅏㅇㅕㅆ
+TRU: yeonseubhayeoss
+PRD: jeonyeuhhayeoss
+
+IN : ㄷㅜㄹㅏㅇㄱㅗ
+TRU: dulanggo
+PRD: dulaono
+
+IN : ㅎㅡㄺㄷㅓㅇㅇㅣ
+TRU: heulgdeongi
+PRD: heungdoomi
+
+IN : ㅎㅕㄹㅇㅕㄴ
+TRU: hyeolyeon
+PRD: gyaolyeon
+
+IN : ㄱㅘㅁㅣㄴ
+TRU: gwamin
+PRD: hwagin
+
+IN : ㄷㅡㄹㅂㅗ
+TRU: deulbo
+PRD: seunlo
+
+IN : ㅍㅣㄹㅗㅎㅏㄱㅔ
+TRU: pilohage
+PRD: molalage
+
+IN : ㅁㅗㅌㅓ
+TRU: moteo
+PRD: domeo
+
+IN : ㄷㅓㄴㄷㅣ
+TRU: deondi
+PRD: deonsi
+
+IN : ㅎㅣㅌㅡㄹㄹㅓ
+TRU: hiteulleo
+PRD: heibeuleeo
+
+IN : ㅌㅗㅂㅏㄱㅇㅣ
+TRU: tobagi
+PRD: nomagi
+
+IN : ㅊㅏㄱㅔ
+TRU: chage
+PRD: chage
+
+IN : ㅇㅟㅎㅓㅁㅎㅏㄹ
+TRU: wiheomhal
+PRD: winaechal
+
+IN : ㅇㅖㅅㅣㄱ
+TRU: yesig
+PRD: yeein
+
+IN : ㅎㅘㄹㅂㅗ
+TRU: hwalbo
+PRD: hhalgo
+
+IN : ㄷㅗㅇㅍㅏㄴ
+TRU: dongpan
+PRD: gaeunan
+
+IN : ㅋㅓㄹㄹㅓㅁㅂㅣㅇㅏ
+TRU: keolleombia
+PRD: seuseutilaa
+
+IN : ㄱㅣㄴㅂㅏㄱㅎㅏㄴ
+TRU: ginbaghan
+PRD: bambighan
+
+IN : ㅂㅜㄹㄱㅠㅊㅣㄱ
+TRU: bulgyuchig
+PRD: guleeucham
+
+IN : ㅁㅏㅌㄷㅏ
+TRU: matda
+PRD: bagta
+
+IN : ㅁㅏㅌㅇㅡㄴ
+TRU: mateun
+PRD: gigeun
+
+IN : ㄴㅣㅅㅔ
+TRU: nise
+PRD: saje
+
+IN : ㅈㅜㄹㄱㅣ
+TRU: julgi
+PRD: mulgi
+
+IN : ㅎㅏㄴㄱㅖ
+TRU: hangye
+PRD: baggyeo
+
+IN : ㅂㅣㄹㄹㅣ
+TRU: billi
+PRD: hilli
+
+IN : ㅅㅣㄴㅎㅘ
+TRU: sinhwa
+PRD: sinhwa
+
+IN : ㄴㅐㅃㅜㅁㄱㅣ
+TRU: naeppumgi
+PRD: jikbeogii
+
+IN : ㄴㅏㄱㅏㅅㅣㄹ
+TRU: nagasil
+PRD: naeasil
+
+IN : ㄴㅗㅎㅇㅣ
+TRU: nohi
+PRD: nasi
+
+IN : ㅇㅡㄹㅗㄱㅏ
+TRU: euloga
+PRD: yoluna
+
+IN : ㅇㅣㄴㅅㅏㅎㅏㅈㅣ
+TRU: insahaji
+PRD: alaghagi
+
+IN : ㅇㅣㅅㅓ
+TRU: iseo
+PRD: ikeo
+
+IN : ㅇㅜㅊㅔ
+TRU: uche
+PRD: ache
+
+IN : ㅅㅐㄱㅅㅗ
+TRU: saegso
+PRD: daegdo
+
+IN : ㄷㅏㄹㅇㅏㄴㅏㄴ
+TRU: dalanan
+PRD: salanna
+
+IN : ㅇㅣㄹㅈㅓㅇㄹㅑㅇ
+TRU: iljeonglyang
+PRD: ilsongsoeo
+
+IN : ㅈㅣㅂㅜㄹㅎㅏㄱㅣ
+TRU: jibulhagi
+PRD: simsinasi
+
+IN : ㅇㅕㅎㅗㅅㅏㄷㅏㄱ
+TRU: yeohosadag
+PRD: teoggunaa
+
+IN : ㅈㅡㅇㅁㅕㅇㅎㅏㅈㅣ
+TRU: jeungmyeonghaji
+PRD: heungyonghagi
+
+IN : ㅇㅗㄻㄱㅣㅅㅕㅆㄷㅏ
+TRU: olmgisyeossda
+PRD: anneunyeossda
+
+IN : ㄱㅜㄴㅂㅗㄱ
+TRU: gunbog
+PRD: domjog
+
+IN : ㅁㅣㅇㅝㅎㅐㅅㅓ
+TRU: miwohaeseo
+PRD: danaaaeseoo
+
+IN : ㅈㅓㄴㅎㅏㅁㅕㄴ
+TRU: jeonhamyeon
+PRD: geonhamyeon
+
+IN : ㅈㅓㅇㅈㅣㄱㅎㅏㅁㅕㄴ
+TRU: jeongjighamyeon
+PRD: seungjighamyeon
+
+IN : ㅇㅕㅁㄹㅕㅅ
+TRU: yeomlyeos
+PRD: eeogyyeog
+
+IN : ㄱㅏㅁㅌㅏㅇㄴㅏㅁㅜ
+TRU: gamtangnamu
+PRD: sansanhame
+
+IN : ㅁㅏㅆㅡ
+TRU: masseu
+PRD: laegeu
+
+IN : ㅊㅜㄱㅏㅎㅏㄱㅓ
+TRU: chugahageo
+PRD: chunhhageo
+
+IN : ㅂㅏㄴㅅㅓㅇ
+TRU: banseong
+PRD: hobsyong
+
+IN : ㅂㅜㄹㅣㄴㄷㅏ
+TRU: bulinda
+PRD: supinga
+
+IN : ㄹㅔㅅㅡㅂㅗㅅㅡ
+TRU: leseuboseu
+PRD: koleoooseu
+
+IN : ㄴㅓㅁㄱㅕㅈㅜㅁㅕㄴ
+TRU: neomgyeojumyeon
+PRD: seomyeoghmyeon
+
+IN : ㅌㅚㅎㅏㄱ
+TRU: toehag
+PRD: tonhhag
+
+IN : ㅊㅣㅇㅊㅏㄴㅎㅏㅅㅕㅆ
+TRU: chingchanhasyeoss
+PRD: chunchanhhayeoss
+
+IN : ㅇㅣㄹㅇㅓㄴㅏㅅㅣㅂ
+TRU: ileonasib
+PRD: useosauim
+
+IN : ㄱㅜㅎㅏㄱㅣ
+TRU: guhagi
+PRD: sagagi
+
+IN : ㅍㅣㄹㅇㅛㅎㅏㅁㅕㄴ
+TRU: pilyohamyeon
+PRD: nnlooghamyeon
+
+IN : ㅇㅜㄴㅈㅓㄴ
+TRU: unjeon
+PRD: andeon
+
+IN : ㅊㅚㅈㅏㅇㅅㅜ
+TRU: choejangsu
+PRD: cheonheso
+
+IN : ㅇㅗㄹㅡㅁ
+TRU: oleum
+PRD: oneum
+
+IN : ㅈㅓㄱㅇㅡㅇㅎㅏㄴ
+TRU: jeogeunghan
+PRD: joogeonghan
+
+IN : ㅂㅜㄴㅇㅣㅅㅕㅆ
+TRU: bunisyeoss
+PRD: soghasyeoss
+
+IN : ㄱㅏㄷㅎㅣㄴㅡㄴ
+TRU: gadhineun
+PRD: hanhaneun
+
+IN : ㄹㅜㅅㅣㅇㅗ
+TRU: lusio
+PRD: lesio
+
+IN : ㅁㅏㄹㅎㅏㄴㅡ
+TRU: malhaneu
+PRD: malhaneu
+
+IN : ㄹㅔㅇㅟ
+TRU: lewi
+PRD: yowi
+
+IN : ㅂㅏㄹㄷㅏㄹㅎㅏㄱㅗ
+TRU: baldalhago
+PRD: doglibhado
+
+IN : ㅈㅓㄴㄷㅐ
+TRU: jeondae
+PRD: jeongae
+
+IN : ㅌㅜㅊㅓㄱ
+TRU: tucheog
+PRD: becheog
+
+IN : ㅅㅏㅅㅗㅎㅏㄷㅏ
+TRU: sasohada
+PRD: dangagga
+
+IN : ㄱㅓㄷㅜㄱㅗ
+TRU: geodugo
+PRD: geobddo
+
+IN : ㅎㅡㅇㅁㅣㅅㄱㅓㄹㅣ
+TRU: heungmisgeoli
+PRD: heungeungeeli
+
+IN : ㅍㅣㅇㅓㄹㅣ
+TRU: pieoli
+PRD: noluki
+
+IN : ㅅㅓㅁㅓㅅㅣㅅ
+TRU: seomeosis
+PRD: geoogeoib
+
+IN : ㄱㅏㄴㅡㅇㅎㅐㅈㅣ
+TRU: ganeunghaeji
+PRD: balsaenhagi
+
+IN : ㅈㅔㅇㅏㄴㅎㅐ
+TRU: jeanhae
+PRD: paaghae
+
+IN : ㅎㅏㅁㄲㅔㅎㅏㄴㅡㄴ
+TRU: hamkkehaneun
+PRD: geumanhaneun
+
+IN : ㄱㅏㅇㅇㅛㅎㅏㄱㅓ
+TRU: gangyohageo
+PRD: dandangaaeo
+
+IN : ㅌㅗㅂㄴㅠㅅㅡ
+TRU: tobnyuseu
+PRD: goleeuseu
+
+IN : ㅁㅔㄹㄹㅏㅋㅏ
+TRU: mellaka
+PRD: supilka
+
+IN : ㅇㅠㅁㅗㄱㅁㅣㄴ
+TRU: yumogmin
+PRD: eonjumin
+
+IN : ㄱㅕㄴㄷㅕ
+TRU: gyeondyeo
+PRD: syoonnyeo
+
+IN : ㄱㅏㅁㅊㅜㄱㅓ
+TRU: gamchugeo
+PRD: dadheegeo
+
+IN : ㅅㅔㄹㅣ
+TRU: seli
+PRD: nuli
+
+IN : ㅈㅏㄴㅇㅣㄴ
+TRU: janin
+PRD: ganin
+
+IN : ㅅㅓㅇㅅㅜㄱ
+TRU: seongsug
+PRD: geoogoo
+
+IN : ㄷㅗㄹㅇㅏㅅㅓㅈㅣ
+TRU: dolaseoji
+PRD: iinjonoki
+
+IN : ㅇㅔㅍㅣㄱ
+TRU: epig
+PRD: uui
+
+IN : ㅁㅣㅇㅑㄴㅁㅏㅇㅓ
+TRU: miyanmaeo
+PRD: ganllalyo
+
+IN : ㅅㅜㄴㅈㅗㄹㅗㅂ
+TRU: sunjolob
+PRD: gogellog
+
+IN : ㅃㅜㄹㅕ
+TRU: ppulyeo
+PRD: keulyeo
+
+IN : ㅇㅗㄹㄹㅏㄱㅏㄴ
+TRU: ollagan
+PRD: upelbaa
+
+IN : ㅈㅓㅁㅅㅓㅇㅅㅜㄹ
+TRU: jeomseongsul
+PRD: henggeeosuul
+
+IN : ㅇㅑㄱㅎㅏㄷㅏ
+TRU: yaghada
+PRD: dangago
+
+IN : ㅂㅏㅇㅁㅜㄴㅎㅐㄷㅗ
+TRU: bangmunhaedo
+PRD: jangdanhado
+
+IN : ㄸㅢㄱㅔ
+TRU: ttuige
+PRD: ktolge
+
+IN : ㅍㅔㅅㅡㅌㅣㅂㅓㄹ
+TRU: peseutibeol
+PRD: bellllseeo
+
+IN : ㄱㅏㅁㅆㅏㅅㅓ
+TRU: gamssaseo
+PRD: maddaeseo
+
+IN : ㄷㅔㅇㅜㄹ
+TRU: deul
+PRD: souul
+
+IN : ㅇㅏㅋㅔ
+TRU: ake
+PRD: aje
+
+IN : ㄱㅡㅇㅣ
+TRU: geui
+PRD: seui
+
+IN : ㅂㅐㄱㄷㅏㄴㅎㅑㅇ
+TRU: baegdanhyang
+PRD: hwagsahaaen
+
+IN : ㅇㅠㄱㅊㅔㄴㅗㄷㅗㅇ
+TRU: yugchenodong
+PRD: sogyeoggoon
+
+IN : ㅈㅏㅂㄱㅔㅆ
+TRU: jabgess
+PRD: jaggess
+
+IN : ㅎㅓㄴㅁㅜㄹ
+TRU: heonmul
+PRD: seongul
+
+IN : ㅁㅏㅇㅣㄴㅊㅡ
+TRU: maincheu
+PRD: jalhaneu
+
+IN : ㅈㅣㄴㅎㅐㅇㅎㅏㅅㅣㄴ
+TRU: jinhaenghasin
+PRD: jinsaenghasin
+
+IN : ㅋㅓㅍㅣㅋㅗㅇ
+TRU: keopikong
+PRD: bellionn
+
+IN : ㅎㅜㄹㅕㅁ
+TRU: hulyeom
+PRD: bulyeol
+
+IN : ㅇㅑㄱㅜㅈㅏㅇ
+TRU: yagujang
+PRD: yogonan
+
+IN : ㅈㅓㄴㅈㅗ
+TRU: jeonjo
+PRD: seonlo
+
+IN : ㄱㅓㄹㅣㄴ
+TRU: geolin
+PRD: teulim
+
+IN : ㄱㅣㄱㅗ
+TRU: gigo
+PRD: bago
+
+IN : ㅈㅣㄴㅏㄴㅂㅓㄴ
+TRU: jinanbeon
+PRD: malhaneun
+
+IN : ㅇㅕㄹㄹㅕ
+TRU: yeollyeo
+PRD: eeolgyeo
+
+IN : ㅉㅏㄼㅇㅏㅈㅕㅆ
+TRU: jjalbajyeoss
+PRD: hwolhasyeoss
+
+IN : ㅈㅜㄱㅇㅡㅅㅕㅆ
+TRU: jugeusyeoss
+PRD: soggeusyeoss
+
+IN : ㄱㅓㄹㄹㅣㄹ
+TRU: geollil
+PRD: neullil
+
+IN : ㅊㅣㄴㅁㅣㄹㄷㅗ
+TRU: chinmildo
+PRD: chamlaago
+
+IN : ㄹㅐㄴㅅㅣㅅ
+TRU: laensis
+PRD: twelsin
+
+IN : ㄴㅡㄹㅣㅂㄴㅣ
+TRU: neulibni
+PRD: jjujuni
+
+IN : ㅇㅡㄴㅅㅐㄱ
+TRU: eunsaeg
+PRD: yoeasag
+
+IN : ㅇㅢㅁㅣㅎㅏㄴㅡㄴ
+TRU: uimihaneun
+PRD: nanahnneun
+
+IN : ㅍㅐㅎㅕㄹㅈㅡㅇ
+TRU: paehyeoljeung
+PRD: seogyeogseun
+
+IN : ㅊㅓㅅㅅㅗㄴ
+TRU: cheosson
+PRD: cheondun
+
+IN : ㅈㅏㅂㅇㅡㅅㅕㅆㅅㅡㅂ
+TRU: jabeusyeossseub
+PRD: aanglllyeosseul
+
+IN : ㅂㅏㅇㅜㄹ
+TRU: baul
+PRD: siuu
+
+IN : ㅌㅟㄴㅣㅈㅣ
+TRU: twiniji
+PRD: hwilgi
+
+IN : ㅇㅝㄹㄷㅡㅇ
+TRU: woldeung
+PRD: wegjeung
+
+IN : ㅃㅏㅈㅕㄴㅏㅇㅘㅆ
+TRU: ppajyeonawass
+PRD: cheneeohaess
+
+IN : ㄱㅜㄷㅎㅣ
+TRU: gudhi
+PRD: moghi
+
+IN : ㅁㅏㅈㅇㅣㅎㅏㅁㅕㄴ
+TRU: majihamyeon
+PRD: niniihayeon
+
+IN : ㄱㅛㅎㅑㅇㄱㅗㄱ
+TRU: gyohyanggog
+PRD: geongaaeog
+
+IN : ㅎㅏㄱㅅㅣㄱ
+TRU: hagsig
+PRD: haasin
+
+IN : ㅁㅗㄹㅗㄴㄷㅏㅂㅏ
+TRU: molondaba
+PRD: jujjogana
+
+IN : ㅅㅓㅇㅈㅏㅇㅎㅏㅅㅕㅆ
+TRU: seongjanghasyeoss
+PRD: seongjanghayyeos
+
+IN : ㅇㅣㄹㅎㅏㅅㅣㅂ
+TRU: ilhasib
+PRD: alabji
+
+IN : ㅅㅜㄴㅂㅗㄱ
+TRU: sunbog
+PRD: goljog
+
+IN : ㅇㅖㅅㅡㅂㅎㅏㄱㅓ
+TRU: yeseubhageo
+PRD: golloshageo
+
+IN : ㄷㅗㅇㅘㅈㅜㄱㅔ
+TRU: dowajuge
+PRD: donahagg
+
+IN : ㅍㅕㄴㅈㅐ
+TRU: pyeonjae
+PRD: teeonhae
+
+IN : ㄱㅓㄴㅈㅓㄴㅎㅏㅈㅣ
+TRU: geonjeonhaji
+PRD: seongboghagi
+
+IN : ㅈㅣㄴㅇㅏㅂㅎㅐ
+TRU: jinabhae
+PRD: gaiaghae
+
+IN : ㄱㅡㄹㅓㅎㄷㅏㄱㅗ
+TRU: geuleohdago
+PRD: ppuleoohago
+
+IN : ㅁㅕㅇㄷㅏㄴ
+TRU: myeongdan
+PRD: hyeongaan
+
+IN : ㅇㅣㅇㅑㄱㅣㅎㅏㅂ
+TRU: iyagihab
+PRD: uuanhaag
+
+IN : ㅇㅛㅇㅅㅓㅎㅏㅅㅣ
+TRU: yongseohasi
+PRD: wengeonhsi
+
+IN : ㅇㅣㄹㅎㅐㄷㅗ
+TRU: ilhaedo
+PRD: ilhago
+
+IN : ㅅㅏㅂㅗㄱ
+TRU: sabog
+PRD: bagog
+
+IN : ㅇㅜㄹㅜㅋㅡ
+TRU: ulukeu
+PRD: lllkeu
+
+IN : ㅁㅣㄹㄱㅗ
+TRU: milgo
+PRD: bilto
+
+IN : ㄷㅐㅅㅣㄴㅎㅏㅇㅕㅆ
+TRU: daesinhayeoss
+PRD: geongahayeoss
+
+IN : ㅋㅏㄹㅗㄹㄹㅣㄴㅏ
+TRU: kalollina
+PRD: sisilllna
+
+IN : ㅊㅣㅇㅢ
+TRU: chiui
+PRD: cwiii
+
+IN : ㄱㅏㅈㅣㄹ
+TRU: gajil
+PRD: habil
+
+IN : ㄹㅣㄹㅏㄴㅡㄴ
+TRU: lilaneun
+PRD: lilineun
+
+IN : ㅂㅜㄴㅂㅜㄴ
+TRU: bunbun
+PRD: gunjun
+
+IN : ㄴㅔㅌㅡ
+TRU: neteu
+PRD: seteu
+
+IN : ㅂㅗㅊㅜㅇㅎㅏㅈㅣ
+TRU: bochunghaji
+PRD: dalsenghagi
+
+IN : ㅈㅏㅊㅣㄱㅝㄴ
+TRU: jachigwon
+PRD: dachaneun
+
+IN : ㅇㅜㄹㅓㅇㅊㅏ
+TRU: uleongcha
+PRD: gumeoghh
+
+IN : ㅅㅚㅅㅁㅜㄹ
+TRU: soesmul
+PRD: googuul
+
+IN : ㅎㅏㅇㅕ
+TRU: hayeo
+PRD: gayyo
+
+IN : ㄴㅏㄴㅣㅇㅏ
+TRU: nania
+PRD: sania
+
+IN : ㅈㅏㄹㅎㅏㄹ
+TRU: jalhal
+PRD: malhal
+
+IN : ㄱㅏㅇㅇㅛㅎㅏㄱㅔㅆ
+TRU: gangyohagess
+PRD: jangonhages
+
+IN : ㄲㅡㅀㅇㅕ
+TRU: kkeulhyeo
+PRD: kheolyeo
+
+IN : ㅇㅑㅇㅍㅏㄹ
+TRU: yangpal
+PRD: dongull
+
+IN : ㅁㅐㅈㅓㅇ
+TRU: maejeong
+PRD: daeseung
+
+IN : ㅋㅜㄱㅔㄹ
+TRU: kugel
+PRD: lisel
+
+IN : ㅂㅣㅇㅜㄱㅔㅆ
+TRU: biugess
+PRD: jalgess
+
+IN : ㅌㅡㄱㅂㅕㄹㅍㅏㄴ
+TRU: teugbyeolpan
+PRD: gengyeeohan
+
+IN : ㅅㅏㄴㅊㅜㄹ
+TRU: sanchul
+PRD: gahchul
+
+IN : ㅂㅏㄴㄱㅏㅇㅝㅆ
+TRU: bangawoss
+PRD: banigeoss
+
+IN : ㅌㅔㅋㅔㄹㄹㅔㅌㅡ
+TRU: tekelleteu
+PRD: lomulluseu
+
+IN : ㅁㅗㄱㅂㅏㄹ
+TRU: mogbal
+PRD: moghal
+
+IN : ㅁㅣㄷㅇㅓㅈㅕㅆ
+TRU: mideojyeoss
+PRD: soghaejyeoss
+
+IN : ㅇㅏㄹㅂㅏㄴㅣㅇㅏ
+TRU: albania
+PRD: ijiiaaa
+
+IN : ㅈㅏㄱㅜㅇ
+TRU: jagung
+PRD: dajung
+
+IN : ㅈㅏㄹㅎㅏㄱㅓ
+TRU: jalhageo
+PRD: janhasye
+
+IN : ㅇㅜㅅㄷㅓ
+TRU: usdeo
+PRD: eude
+
+IN : ㅊㅡㄱㄹㅑㅇ
+TRU: cheuglyang
+PRD: cheonheung
+
+IN : ㅎㅓㅇㅛㅇㅎㅏㄱㅔㅆ
+TRU: heoyonghagess
+PRD: jeunggaghgess
+
+IN : ㄱㅗㅎㅐ
+TRU: gohae
+PRD: sogae
+
+IN : ㅇㅡㄴㄷㅗㅇ
+TRU: eundong
+PRD: yobdon
+
+IN : ㅇㅔㄷㅣ
+TRU: edi
+PRD: eui
+
+IN : ㅈㅓㅁㅊㅓㄹ
+TRU: jeomcheol
+PRD: seoccheum
+
+IN : ㅍㅜㅇㅍㅏ
+TRU: pungpa
+PRD: youua
+
+IN : ㄱㅏㅈㅡㅁㅣ
+TRU: gajeumi
+PRD: gabduki
+
+IN : ㅍㅛㅎㅕㄴㅎㅏㄷㅓㄴ
+TRU: pyohyeonhadeon
+PRD: yeogyenghadeon
+
+IN : ㅈㅣㅋㅕㅂㅘ
+TRU: jikyeobwa
+PRD: bileossaa
+
+IN : ㅁㅏㄴㅈㅕㅆ
+TRU: manjyeoss
+PRD: sagsyeoss
+
+IN : ㄴㅏㅁㅎㅏㄱㅅㅐㅇ
+TRU: namhagsaeng
+PRD: jagaoghwong
+
+IN : ㅈㅔㄱㅓㅎㅏㅅㅣㄹ
+TRU: jegeohasil
+PRD: dondohasib
+
+IN : ㅇㅜㅇㅢ
+TRU: uui
+PRD: eui
+
+IN : ㅇㅠㄷㅣ
+TRU: yudi
+PRD: yeni
+
+IN : ㅇㅣㅆㄴㅑ
+TRU: issnya
+PRD: ilhe
+
+IN : ㅇㅕㄴㄱㅜㅎㅏㅈㅛ
+TRU: yeonguhajyo
+PRD: jeondohageo
+
+IN : ㅇㅏㄹㅏㅇㄱㅗㅅ
+TRU: alanggos
+PRD: ooonhae
+
+IN : ㅁㅗㄱㅍㅛ
+TRU: mogpyo
+PRD: pomgyo
+
+IN : ㅋㅏㄹㄹㅔㄴ
+TRU: kallen
+PRD: lilpon
+
+IN : ㅌㅗㅇㄱㅘㅎㅏㄹ
+TRU: tonggwahal
+PRD: jonganhaa
+
+IN : ㅌㅏㅋㅔㅅㅡ
+TRU: takeseu
+PRD: lokoseu
+
+IN : ㅌㅡㄹㅏㄱㅗ
+TRU: teulago
+PRD: keoligo
+
+IN : ㅅㅟㅍㅡㅁㅓㄴ
+TRU: swipeumeon
+PRD: heaneuueon
+
+IN : ㅇㅘㄷㅣㅇㅌㅓㄴ
+TRU: wadingteon
+PRD: aangaeeeon
+
+IN : ㅊㅟㅎㅏㅅㅣㅂ
+TRU: chwihasib
+PRD: chenhhasi
+
+IN : ㄷㅜㄹㅜ
+TRU: dulu
+PRD: tulu
+
+IN : ㄱㅏㄴㅡㅇㅎㅏㅅㅣ
+TRU: ganeunghasi
+PRD: balsanghagi
+
+IN : ㄲㅜㅈㅜㅇ
+TRU: kkujung
+PRD: ktedun
+
+IN : ㄴㅏㅎㅈㅏ
+TRU: nahja
+PRD: nagha
+
+IN : ㄷㅗㅇㅇㅣㄹㅎㅏㅂ
+TRU: dongilhab
+PRD: nanalgamg
+
+IN : ㅁㅣㅌㅗ
+TRU: mito
+PRD: tato
+
+IN : ㅈㅣㅈㅓㄱㅎㅏㅇㅕㅆ
+TRU: jijeoghayeoss
+PRD: somaahhayeoss
+
+IN : ㅊㅓㄹㅅㅓㄱ
+TRU: cheolseog
+PRD: cheoljeog
+
+IN : ㅅㅣㅁㅔㄴㅌㅡ
+TRU: simenteu
+PRD: malaateu
+
+IN : ㅅㅓㄹㄹㅣㅂㅎㅏㄹㅕ
+TRU: seollibhalyeo
+PRD: seumaughamyeo
+
+IN : ㄸㅏㄹㅏㅇㅗㄴ
+TRU: ttalaon
+PRD: kkulion
+
+IN : ㄷㅏㄴㅣㅅㅕㅆㄷㅏ
+TRU: danisyeossda
+PRD: naneudeossda
+
+IN : ㅂㅜㅌㅇㅣㅂㄴㅣ
+TRU: butibni
+PRD: dolanii
+
+IN : ㅈㅔㅈㅗㅇㅓㅂ
+TRU: jejoeob
+PRD: sulueom
+
+IN : ㄷㅡㅇㅂㅏㄴ
+TRU: deungban
+PRD: teengsan
+
+IN : ㄲㅐㅇㅜㄱㅣ
+TRU: kkaeugi
+PRD: ckeungi
+
+IN : ㅊㅏㅈㅇㅏㅇㅗㄱㅣ
+TRU: chajaogi
+PRD: chilanaai
+
+IN : ㅇㅜㄴㅈㅓㄴㅎㅐㅅㅓ
+TRU: unjeonhaeseo
+PRD: aggooghaeseo
+
+IN : ㅁㅏㅇㅁㅕㅇㅈㅏ
+TRU: mangmyeongja
+PRD: gangyyoosaa
+
+IN : ㅊㅗㄱㅂㅏㄱ
+TRU: chogbag
+PRD: chashag
+
+IN : ㅈㅓㅇㅈㅣㄴ
+TRU: jeongjin
+PRD: geungmin
+
+IN : ㄱㅏㅁㅆㅏㄴㅡㄴ
+TRU: gamssaneun
+PRD: manhanneun
+
+IN : ㄱㅏㅇㅈㅗㅎㅏㅂ
+TRU: gangjohab
+PRD: jangdahan
+
+IN : ㅇㅗㄱㅕㅇㅁㅏㄴ
+TRU: ogyeongman
+PRD: aemyeogan
+
+IN : ㄱㅏㅇㅈㅗㅎㅏㄱㅓ
+TRU: gangjohageo
+PRD: dandanhageo
+
+IN : ㅁㅣㄹㅜㅁㅕㄴ
+TRU: milumyeon
+PRD: pilggyeon
+
+IN : ㅎㅘㄴㄱㅘㄴ
+TRU: hwangwan
+PRD: haenhang
+
+IN : ㅅㅓㅇㅂㅐ
+TRU: seongbae
+PRD: beonggae
+
+IN : ㄹㅗㅁㅏㅇㅅㅠㅇㅓ
+TRU: lomangsyueo
+PRD: aagaemmeoo
+
+IN : ㅈㅏㅂㅎㅣㄹ
+TRU: jabhil
+PRD: maghil
+
+IN : ㅁㅏㅅㅇㅣㅆㄷㅏ
+TRU: masissda
+PRD: jajidda
+
+IN : ㅆㅡㄹㅇㅓ
+TRU: sseuleo
+PRD: kkeunyu
+
+IN : ㅁㅜㅇㅟ
+TRU: muwi
+PRD: buwi
+
+IN : ㄱㅔㄴㄴㅏ
+TRU: genna
+PRD: donga
+
+IN : ㄱㅜㄱㅕㅇㅎㅏㄹㅕ
+TRU: gugyeonghalyeo
+PRD: golyeoghamyeo
+
+IN : ㅇㅏㅍㅗㄹㄹㅗ
+TRU: apollo
+PRD: eleello
+
+IN : ㄹㅏㅇㅣㅍㅡ
+TRU: laipeu
+PRD: paikeu
+
+IN : ㅎㅐㅅㅜㅁㅕㄴ
+TRU: haesumyeon
+PRD: hhanhmyeon
+
+IN : ㄷㅏㄹㄹㅏㅆㅅㅡㅂㄴㅣ
+TRU: dallassseubni
+PRD: jijsunyeoosii
+
+IN : ㅁㅐㄱㅅㅣㄴ
+TRU: maegsin
+PRD: taessin
+
+IN : ㅂㅜㄹㅁㅣ
+TRU: bulmi
+PRD: gulli
+
+IN : ㅍㅡㄹㄹㅗ
+TRU: peullo
+PRD: keullo
+
+IN : ㄲㅏㄹㄹㅣ
+TRU: kkalli
+PRD: kkeuli
+
+IN : ㄱㅜㅈㅗㅇㅝㄴ
+TRU: gujowon
+PRD: gobuenn
+
+IN : ㅁㅜㅇㅓㅁㅎㅏㅁ
+TRU: mueomham
+PRD: gumguuha
+
+IN : ㅈㅗㅅㅣㅁㅅㅡㄹㅓㅂ
+TRU: josimseuleob
+PRD: kibeugeuleen
+
+IN : ㅍㅜㅇㅂㅜㅎㅏ
+TRU: pungbuha
+PRD: yumeonha
+
+IN : ㄱㅜㄱㅜ
+TRU: gugu
+PRD: bosu
+
+IN : ㅇㅣㄹㅇㅡㅋㅣㄴ
+TRU: ileukin
+PRD: aljolin
+
+IN : ㄷㅚㅍㅜㄹㅇㅣㅎㅐ
+TRU: doepulihae
+PRD: sussssihae
+
+IN : ㄱㅓㅂㅈㅐㅇㅇㅣ
+TRU: geobjaengi
+PRD: seongeosin
+
+IN : ㅊㅓㅇㅎㅐ
+TRU: cheonghae
+PRD: meonghae
+
+IN : ㄴㅏㅌㅏㄴㅏㄴ
+TRU: natanan
+PRD: dalana
+
+IN : ㄴㅐㄹㅕㅇㅗㅅㅣㄹ
+TRU: naelyeoosil
+PRD: neomgyeolil
+
+IN : ㅈㅓㅇㄱㅛ
+TRU: jeonggyo
+PRD: seongnyo
+
+IN : ㅈㅓㅇㄹㅣㅎㅏㅁㅕㄴ
+TRU: jeonglihamyeon
+PRD: jeunginhamyen
+
+IN : ㄱㅣㅅㅏㅅㄱㅓㄹㅣ
+TRU: gisasgeoli
+PRD: bibgedduki
+
+IN : ㅇㅑㅁㅏㅇ
+TRU: yamang
+PRD: nagan
+
+IN : ㅅㅏㅇㄱㅗㄴㅅㅏㄹㄹㅜ
+TRU: sanggonsallu
+PRD: yanggansallu
+
+IN : ㅇㅗㄹㅗㄹㅡ
+TRU: ololeu
+PRD: eoleeu
+
+IN : ㅋㅗㄴㅅㅏㅇㅣㅅㅡ
+TRU: konsaiseu
+PRD: sajabadeu
+
+IN : ㄲㅗㅈㄱㅗ
+TRU: kkojgo
+PRD: kkelho
+
+IN : ㅂㅏㄴㅈㅏㄱㅇㅛㅇ
+TRU: banjagyong
+PRD: ganbbbyon
+
+IN : ㅇㅓㄱㅇㅜㄹㅎㅏㅁ
+TRU: eogulham
+PRD: udeolaam
+
+IN : ㄲㅗㅌㅜㄹㅣ
+TRU: kkotuli
+PRD: kkeulji
+
+IN : ㅈㅗㄴㄱㅕㅇㅎㅐㅆ
+TRU: jongyeonghaess
+PRD: jujyeonghaess
+
+IN : ㅂㅣㄹㅗㅅㄷㅚㅂ
+TRU: bilosdoeb
+PRD: galaggaem
+
+IN : ㅋㅟㄹㅌㅡ
+TRU: kwilteu
+PRD: jilleeu
+
+IN : ㄱㅏㅁㅅㅏㅇㅎㅏㄷㅗ
+TRU: gamsanghado
+PRD: damdanghago
+
+IN : ㅅㅓㄹㅁㅕㅇㅎㅏㅇㅕㅆ
+TRU: seolmyeonghayeoss
+PRD: ceeoleeoghayyeoss
+
+IN : ㄱㅣㅅㅗㄴ
+TRU: gison
+PRD: bajon
+
+IN : ㅁㅣㄴㅣ
+TRU: mini
+PRD: jini
+
+IN : ㄹㅏㅁㅕㄴ
+TRU: lamyeon
+PRD: pagyeon
+
+IN : ㄷㅏㄻㅇㅏ
+TRU: dalma
+PRD: sana
+
+IN : ㅇㅓㅇㅑ
+TRU: eoya
+PRD: yogy
+
+IN : ㅂㅜㅅㄱㅓ
+TRU: busgeo
+PRD: domgeo
+
+IN : ㅂㅣㄷㅗ
+TRU: bido
+PRD: bido
+
+IN : ㄷㅡㄹㅓㄴㅐㅈㅣ
+TRU: deuleonaeji
+PRD: teugbeooji
+
+IN : ㅎㅐㄱㅈㅓㄴㅈㅐㅇ
+TRU: haegjeonjaeng
+PRD: jeongdangseng
+
+IN : ㅁㅏㄷㅡㄹㅏㅅㅡ
+TRU: madeulaseu
+PRD: kaleunakeu
+
+IN : ㅇㅣㄴㅎㅏㄴ
+TRU: inhan
+PRD: ibhan
+
+IN : ㅈㅣㅇㅓ
+TRU: jieo
+PRD: biyo
+
+IN : ㄱㅘㄴㄹㅖ
+TRU: gwanlye
+PRD: saenyye
+
+IN : ㅂㅜㄹㅍㅕㄴㅎㅏㄹ
+TRU: bulpyeonhal
+PRD: golgeesshal
+
+IN : ㅇㅓㅁㅎㅏㄹ
+TRU: eomhal
+PRD: eoghal
+
+IN : ㅅㅑㄱㅏㅅㅡㅂㅕㅇ
+TRU: syagaseubyeong
+PRD: geggeeemyeon
+
+IN : ㅎㅘㄱㅇㅣㄴㅎㅏㅅㅣㅂ
+TRU: hwaginhasib
+PRD: hwaginaasin
+
+IN : ㅁㅜㅊㅓㄱ
+TRU: mucheog
+PRD: becheog
+
+IN : ㄱㅓㄴㄴㅔㅅㅣ
+TRU: geonnesi
+PRD: geonnesi
+
+IN : ㄱㅘㅇㅡㅁ
+TRU: gwaeum
+PRD: saieul
+
+IN : ㅍㅜㅁㅇㅣㄹ
+TRU: pumil
+PRD: nopim
+
+IN : ㄱㅏㅂㅈㅏㄱㅅㅡㄹㅓㄴ
+TRU: gabjagseuleon
+PRD: jibeinaeupeon
+
+IN : ㅇㅏㄹㅔㅅ
+TRU: ales
+PRD: ale
+
+IN : ㅂㅗㅈㅏ
+TRU: boja
+PRD: sosa
+
+IN : ㄴㅐㅂㅜㄴㅂㅣㅎㅏㄱ
+TRU: naebunbihag
+PRD: jeonganhaao
+
+IN : ㅂㅓㄹㅁㅕㄴ
+TRU: beolmyeon
+PRD: seolmyeon
+
+IN : ㄴㅏㅌㅏㄴㅏㄹ
+TRU: natanal
+PRD: mannnal
+
+IN : ㅅㅗㄹㄹㅣ
+TRU: solli
+PRD: gulli
+
+IN : ㅌㅔㄹㅅㅜㅋㅏㅅㅡ
+TRU: telsukaseu
+PRD: kolulsaseu
+
+IN : ㅅㅗㄱㅐㅎㅏㅁㅕㄴ
+TRU: sogaehamyeon
+PRD: nolaehamyeon
+
+IN : ㅅㅗㄱㅇㅏㅆ
+TRU: sogass
+PRD: dogeog
+
+IN : ㄱㅏㄱㅎㅏ
+TRU: gagha
+PRD: sanha
+
+IN : ㅁㅣㄷㅇㅡ
+TRU: mideu
+PRD: bigyu
+
+IN : ㅇㅣㅂㅎㅣㄹ
+TRU: ibhil
+PRD: alhii
+
+IN : ㅅㅓㄹㄹㅣㅂㅎㅏㅇㅕㅆ
+TRU: seollibhayeoss
+PRD: deunduhasyeoss
+
+IN : ㅌㅗㅇㄹㅖ
+TRU: tonglye
+PRD: gonggye
+
+IN : ㄴㅗㄹㄹㅏㅇㅜㄴ
+TRU: nollaun
+PRD: dolaob
+
+IN : ㅂㅓㄴㅇㅕㄱㅎㅐㅆ
+TRU: beonyeoghaess
+PRD: jeoneeonhaess
+
+IN : ㅊㅜㅊㅓㄴㅎㅏㄱㅔ
+TRU: chucheonhage
+PRD: cheoghighae
+
+IN : ㅇㅣㄴㄱㅣㅊㅓㄱ
+TRU: ingicheog
+PRD: ilahaaes
+
+IN : ㅈㅣㅂㅜㄹㅎㅏㄴ
+TRU: jibulhan
+PRD: sililhan
+
+IN : ㄴㅡㄲㅣㅅㅕㅆㅈㅣ
+TRU: neukkisyeossji
+PRD: teuggyeoolsi
+
+IN : ㅌㅓㄹㄷㅓㄴ
+TRU: teoldeon
+PRD: seubjeon
+
+IN : ㅇㅏㄲㅏㅇㅝㅆ
+TRU: akkawoss
+PRD: olaaeos
+
+IN : ㄱㅣㄴㅕㅁㅁㅜㄹ
+TRU: ginyeommul
+PRD: gelseuusul
+
+IN : ㅇㅏㄴㅡㄱ
+TRU: aneug
+PRD: ameum
+
+IN : ㅇㅠㄱㄱㅛ
+TRU: yuggyo
+PRD: yoggyo
+
+IN : ㅅㅣㄹㅊㅓㄴㅎㅏㅁㅕ
+TRU: silcheonhamyeo
+PRD: saeeuuhhamyeo
+
+IN : ㅇㅣㄴㅌㅓㄴ
+TRU: inteon
+PRD: iljeom
+
+IN : ㅇㅠㄹㅏㄴ
+TRU: yulan
+PRD: yolan
+
+IN : ㄴㅏㄱㅏㅇㅛ
+TRU: nagayo
+PRD: nanayo
+
+IN : ㅎㅔㅇㄱㅜ
+TRU: henggu
+PRD: donngu
+
+IN : ㅇㅓㄴㅉㅏㄶㅇㅏㅆ
+TRU: eonjjanhass
+PRD: teogeonaess
+
+IN : ㅁㅣㅅㅣㄱ
+TRU: misig
+PRD: jisib
+
+IN : ㅇㅑㅎㅞ
+TRU: yahwe
+PRD: aegyeo
+
+IN : ㅂㅏㄱㅎㅐ
+TRU: baghae
+PRD: baghae
+
+IN : ㅌㅗㄹㅏ
+TRU: tola
+PRD: lula
+
+IN : ㄱㅏㅁㅅㅗㅎㅐ
+TRU: gamsohae
+PRD: jinsogaa
+
+IN : ㅂㅐㄹㄹㅓㄴㅌㅏㅇㅣㄴ
+TRU: baelleontain
+PRD: seulgetbaiin
+
+IN : ㅎㅏㅇㅗ
+TRU: hao
+PRD: gaao
+
+IN : ㄱㅣㅇㅓㅂㄱㅏ
+TRU: gieobga
+PRD: babouja
+
+IN : ㅌㅏㄹㄱㅗㄱ
+TRU: talgog
+PRD: baljog
+
+IN : ㄷㅐㅎㅏㅇ
+TRU: daehang
+PRD: daecaag
+
+IN : ㄱㅘㄴㄹㅕㄴㅅㅓㅇ
+TRU: gwanlyeonseong
+PRD: seolgyeojseong
+
+IN : ㅁㅏㄹㅁㅣㅈㅏㄹ
+TRU: malmijal
+PRD: simalhal
+
+IN : ㄴㅏㅌㅁㅏㄹ
+TRU: natmal
+PRD: mallal
+
+IN : ㅇㅣㄹㅡㄴㅡㄴ
+TRU: ileuneun
+PRD: illeeen
+
+IN : ㄸㅏㄲㅡㄴㄸㅏㄲㅡㄴ
+TRU: ttakkeunttakkeun
+PRD: ceulieusjuneeu
+
+IN : ㅈㅓㅂㅅㅗㄱ
+TRU: jeobsog
+PRD: beonaog
+
+IN : ㅇㅕㄴㄱㅜㅎㅏㅁㅕㄴ
+TRU: yeonguhamyeon
+PRD: benbunhamyeon
+
+IN : ㅇㅗㅈㅏ
+TRU: oja
+PRD: ada
+
+IN : ㅋㅐㄴㅌㅓ
+TRU: kaenteo
+PRD: gaeegeo
+
+IN : ㅂㅗㄱㄱㅜ
+TRU: boggu
+PRD: bonsu
+
+IN : ㅅㅓㅇㅊㅏㄹ
+TRU: seongchal
+PRD: teonghaab
+
+IN : ㄷㅏㄱㅏㄱㅏㄱㅗ
+TRU: dagagago
+PRD: gonnhago
+
+IN : ㅁㅏㅇㅣㅋㅡ
+TRU: maikeu
+PRD: saikeu
+
+IN : ㅊㅐㅅㅣㄱ
+TRU: chaesig
+PRD: cheosin
+
+IN : ㅇㅟㅅㅏㅁ
+TRU: wisam
+PRD: aehal
+
+IN : ㅈㅣㄹㅔㅈㅣㅁㅈㅏㄱ
+TRU: jilejimjag
+PRD: supiisahan
+
+IN : ㄱㅏㅅㅜ
+TRU: gasu
+PRD: baju
+
+IN : ㄱㅕㅇㅂㅣㅇㅝㄴ
+TRU: gyeongbiwon
+PRD: pyeongsaeng
+
+IN : ㅍㅔㄹㄷㅡㅁㅓㄴ
+TRU: peldeumeon
+PRD: geleunjeon
+
+IN : ㄱㅘㅇㅅㅓㄴ
+TRU: gwangseon
+PRD: daengeeng
+
+IN : ㅈㅔㄱㅗㅇㅎㅏㄷㅗ
+TRU: jegonghado
+PRD: dogdoghago
+
+IN : ㄴㅡㄺㄷㅗ
+TRU: neulgdo
+PRD: seonlo
+
+IN : ㅇㅣㄷㅗㅇㅇㅛㅇ
+TRU: idongyong
+PRD: inganyeng
+
+IN : ㅇㅏㄷㅡㅇㅂㅏㄷㅡㅇ
+TRU: adeungbadeung
+PRD: injeonhaneun
+
+IN : ㅇㅕㄴㄱㅡㅁ
+TRU: yeongeum
+PRD: gyoggeub
+
+IN : ㄷㅏㅇㅑㅇㅎㅏㅇㅕㅆ
+TRU: dayanghayeoss
+PRD: jonannhayeoss
+
+IN : ㅅㅣㅍㄴㅔ
+TRU: sipne
+PRD: balte
+
+IN : ㅅㅣㄱㅖ
+TRU: sigye
+PRD: tagye
+
+IN : ㅅㅏㅇㄷㅏㅇㅅㅜ
+TRU: sangdangsu
+PRD: dawyaaugo
+
+IN : ㄱㅟㅅㅣㄴ
+TRU: gwisin
+PRD: hwasin
+
+IN : ㅅㅔㄴㅡㄴ
+TRU: seneun
+PRD: soneun
+
+IN : ㅇㅣㄱㅅㅜㄱㅎㅐㅈㅕ
+TRU: igsughaejyeo
+PRD: inhagghalyeo
+
+IN : ㅎㅘㄴㅇㅕㅇㅎㅏㅇㅕㅆ
+TRU: hwanyeonghayeoss
+PRD: seongaoghayyeos
+
+IN : ㄱㅓㄴㄴㅓㅈㅏ
+TRU: geonneoja
+PRD: beoneonga
+
+IN : ㅎㅗㅋㅜㅅㅏㅇㅣ
+TRU: hokusai
+PRD: sajauui
+
+IN : ㅎㅠㄱㅔ
+TRU: hyuge
+PRD: hheee
+
+IN : ㄹㅔㅌㅡ
+TRU: leteu
+PRD: lepeu
+
+IN : ㄷㅟㅊㅓㄱ
+TRU: dwicheog
+PRD: chicheom
+
